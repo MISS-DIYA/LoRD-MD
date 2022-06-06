@@ -31,10 +31,10 @@ const fvid = {
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `LoRD-MD`,
-                 "h": `LoRD-MD`,
+                 "title": `MISS-DIYA`,
+                 "h": `MISS-DIYA`,
                  'duration': '99999', 
-                 'caption': `LoRD-MD`,
+                 'caption': `MISS-DIYA`,
                  'jpegThumbnail': global.thumb
                         }
                        }
@@ -52,7 +52,7 @@ const lordofc = {
                             itemCount : 123,
                             itemCoun : 404,
                             surface : 404,
-                            message: `© LoRD-MD`,
+                            message: `© MISS-DIYA`,
                             orderTitle: 'B',
                             thumbnail: global.thumb, 
                             sellerJid: '0@s.whatsapp.net'
