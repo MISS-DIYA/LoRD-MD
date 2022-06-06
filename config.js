@@ -1,5 +1,5 @@
 /**
-   * Created By LoRD.
+   * Created By VIRUS-CAT 
    * Contact Me on wa.me/917034890656
    * Follow https://github.com/Lord-official
 **/
